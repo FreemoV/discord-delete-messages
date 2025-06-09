@@ -19,7 +19,7 @@ Discord Message Deleter (Удаление сообщений в Discord)
 
 Установка
 
-Клонируйте или скачайте этот репозиторий:git clone https://github.com/yourusername/discord-message-deleter.git
+Клонируйте или скачайте этот репозиторий:[git clone https://github.com/yourusername/discord-message-deleter.git](https://github.com/FreemoV/discord-delete-messages.git)
 
 
 Откройте файл скрипта (discord-message-deleter.js) в текстовом редакторе, если нужно изменить настройки (например, значения задержек).
