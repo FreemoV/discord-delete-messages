@@ -79,4 +79,4 @@ RETRY_ATTEMPTS: Количество повторных попыток для н
 Вклад в проект
 Приветствуются любые предложения и улучшения! Открывайте issues или отправляйте pull requests. Идеи для новых функций (например, фильтрация по дате или содержимому сообщений) также приветствуются.
 Лицензия
-Проект распространяется под лицензией MIT. Подробности в файле https://github.com/FreemoV/discord-delete-messages/blob/main/LICENSE
+Проект распространяется под лицензией MIT. Подробности в файле [https://github.com/FreemoV/discord-delete-messages/blob/main/LICENSE](LICENSE)
